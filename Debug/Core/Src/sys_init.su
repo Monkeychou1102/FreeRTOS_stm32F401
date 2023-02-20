@@ -1,0 +1,2 @@
+sys_init.c:5:6:sysCreateThread	4	static
+sys_init.c:10:6:System_Initial	8	static

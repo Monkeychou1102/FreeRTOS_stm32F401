@@ -2,10 +2,14 @@
 #include "sys_init.h"
 
 
+void sysCreateThread(void)
+{
+	;
+}
 
 void System_Initial(void)
 {
-	;
+	sysCreateThread();
 }
 
 
