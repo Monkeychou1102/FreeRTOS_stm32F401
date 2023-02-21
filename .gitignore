@@ -1,2 +1,0 @@
-$ git rm -r --cached .settings
-$ git rm -r --cached Debug
